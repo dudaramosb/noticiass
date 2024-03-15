@@ -20,7 +20,7 @@ body {
     background-color: var(--almost-white);
 }
 
-body.menu-open::before {
+body.escurecer::before {
     content: "";
     position: absoluto;
     height: 100vh;
@@ -66,7 +66,7 @@ body.menu-open::before {
     width: fit-content;
 }
 
-.header-mobile nav {
+.header-mobile nav abrir {
     position: fixed;
     background-color:  var(--almost-white);
     right: 0;
